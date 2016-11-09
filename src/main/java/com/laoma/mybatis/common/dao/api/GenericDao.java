@@ -1,4 +1,4 @@
-package com.laoma.mybatis.common.dao;
+package com.laoma.mybatis.common.dao.api;
 
 
 import com.laoma.mybatis.common.filter.QueryFilter;

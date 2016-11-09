@@ -1,4 +1,4 @@
-package com.laoma.mybatis.common.service;
+package com.laoma.mybatis.common.service.api;
 
 
 import com.laoma.mybatis.common.filter.QueryFilter;

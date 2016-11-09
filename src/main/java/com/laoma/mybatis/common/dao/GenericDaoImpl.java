@@ -1,6 +1,6 @@
-package com.laoma.mybatis.common.dao.impl;
+package com.laoma.mybatis.common.dao;
 
-import com.laoma.mybatis.common.dao.GenericDao;
+import com.laoma.mybatis.common.dao.api.GenericDao;
 import com.laoma.mybatis.common.filter.QueryFilter;
 import org.apache.ibatis.executor.BatchExecutor;
 import org.apache.ibatis.logging.Log;

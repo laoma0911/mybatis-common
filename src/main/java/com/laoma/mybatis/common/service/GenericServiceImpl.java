@@ -1,9 +1,9 @@
-package com.laoma.mybatis.common.service.impl;
+package com.laoma.mybatis.common.service;
 
 
-import com.laoma.mybatis.common.dao.GenericDao;
+import com.laoma.mybatis.common.dao.api.GenericDao;
 import com.laoma.mybatis.common.filter.QueryFilter;
-import com.laoma.mybatis.common.service.GenericService;
+import com.laoma.mybatis.common.service.api.GenericService;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 
